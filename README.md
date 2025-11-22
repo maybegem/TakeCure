@@ -65,3 +65,36 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" style="vertical-align: middle;">
+      <video 
+        src="https://github.com/user-attachments/assets/454bbdcc-14ab-4695-9b72-05af273e84ec" 
+        controls 
+        style="width: 100%; max-width: 350px; border-radius: 10px;" 
+        loop 
+        autoplay 
+        muted>
+      </video>
+    </td>
+    <td width="50%" style="vertical-align: middle; padding-left: 20px;">
+      <h1 style="font-size: 20px; margin: 0 0 10px 0;">📞 Contacts</h1>
+      <p style="line-height: 1.6;">
+        <strong>Healthcare Network:</strong> Store and organize important healthcare contacts in three categories: Doctors, Caregivers, and Emergency contacts.
+      </p>
+      <p style="line-height: 1.6;">
+        <strong>Contact Details:</strong>
+      </p>
+      <ul style="margin: 5px 0 15px 20px; line-height: 1.6;">
+        <li>Name, surname, phone number, and email</li>
+        <li>Custom profile pictures from preset options</li>
+        <li>Quick call button for instant communication</li>
+        <li>Organized by groups for easy access</li>
+      </ul>
+      <p style="line-height: 1.6;">
+        <strong>Easy Management:</strong> Add, edit, or delete contacts with a simple interface. All contacts are saved locally on your device.
+      </p>
+    </td>
+  </tr>
+</table>
